@@ -1,0 +1,20 @@
+.comment-view{
+    
+    padding: 0.5rem;
+    display: flex;
+}
+.comment-content{
+    font-size: 16px;
+    align-items: left;
+
+}
+.comment-title{
+    font-size: 16px;
+}
+.comment-id{
+    align-items: right;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right !important;
+    color: #CEFF00;
+}
